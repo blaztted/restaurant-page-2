@@ -1,0 +1,29 @@
+body {
+    background-color: whitesmoke;
+    
+   /*  min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    text-align: center; */
+}
+
+#content{
+  /*   display: flex; */
+/*     min-height: 100vh; */
+
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+   /*  justify-content: center; */
+}
+
+.top-img{
+    margin:25px;
+}
+
+.landing-page-copy{
+    margin-top: 20px;
+    color: grey
+    font-weight: 900;
+    font-style:oblique;
+}
